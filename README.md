@@ -15,5 +15,6 @@ Evict cache line according to the Least Recent Used Cache (LRU) policy.
 
 ![](illustration1.png)
 
+L = Load; S = Store; M = Modify
 
 ![](explaination1.png)
