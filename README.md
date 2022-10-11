@@ -10,4 +10,4 @@ Evict cache line according to the Least Recent Used Cache (LRU) policy.
 ![](cache.png)
 
 
-![](cache.png)
+![](instruction.png)
