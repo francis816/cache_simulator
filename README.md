@@ -11,3 +11,9 @@ Evict cache line according to the Least Recent Used Cache (LRU) policy.
 
 
 ![](instruction.png)
+
+
+![](illustration1.png)
+
+
+![](explaination1.png)
